@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VIT_MERN_INTERNSHIP_CALCULATOR/static/css/main.d5159f65.css",
+    "main.js": "/VIT_MERN_INTERNSHIP_CALCULATOR/static/js/main.79d17be6.js",
+    "static/js/787.aad65a53.chunk.js": "/VIT_MERN_INTERNSHIP_CALCULATOR/static/js/787.aad65a53.chunk.js",
+    "index.html": "/VIT_MERN_INTERNSHIP_CALCULATOR/index.html",
+    "main.d5159f65.css.map": "/VIT_MERN_INTERNSHIP_CALCULATOR/static/css/main.d5159f65.css.map",
+    "main.79d17be6.js.map": "/VIT_MERN_INTERNSHIP_CALCULATOR/static/js/main.79d17be6.js.map",
+    "787.aad65a53.chunk.js.map": "/VIT_MERN_INTERNSHIP_CALCULATOR/static/js/787.aad65a53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5159f65.css",
+    "static/js/main.79d17be6.js"
+  ]
+}
